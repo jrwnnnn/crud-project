@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Please read <code>pseudo_code.txt</code> first before commiting.
+> For first timers, please read <code>pseudo_code.txt</code>.
 
 # Project Crud <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="height:30px;">
 
