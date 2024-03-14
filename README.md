@@ -1,4 +1,4 @@
-<h1>Project Name <img src="[LINK]" style="height:30px;"></h1>
+<h1>Project Name <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="height:30px;"></h1>
 
 <!-- PROGRAMMING LANGUAGE ICONS
 HTML: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png
@@ -10,9 +10,13 @@ mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn)** <br>
 
 <p><b>Language: </b> 
-<!--LANGUAGE-->
+HTML, JavaScript
 </p>
 
 <p><b>Description: </b> <br>
-<!--DESCRIPTION HERE-->
+A school project.
+</p>
+
+<p><b>Notes for collaborators: </b> <br>
+Please read <code>pseudo_code.txt</code> first before commiting.
 </p>
