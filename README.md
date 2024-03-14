@@ -11,7 +11,7 @@ mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 -->
 
 A school project. <br>
-**Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn) and hendi [(@kcirdneH)](https://github.com/kcirdneH)** <br>
+**Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn) and hendi [(@kcirdneH)](https://github.com/kcirdneH) .** <br>
 
 ### How to use
-
+This thing won't run just yet. Please come back next time or contribute to speed up the development process. :)
