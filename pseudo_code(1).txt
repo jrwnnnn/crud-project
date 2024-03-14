@@ -1,0 +1,39 @@
+Welcome to Pseudo Code!
+
+Create
+    - ask for LRN, Student Name, Age, etc. using <form> and <input> .
+    - check if LRN data is already exsisting 
+        - if yes :
+            - warn the user
+            - show them the data connected to the LRN instead. (redirect to search.html)
+        - if no :
+            - store data to Local Storage
+
+Read
+    - ask for LRN using <input>
+        - if LRN exsist in the database :
+            - display the student data connected to the LRN
+        - if LRN doesn't exsist in the database ;
+            - warn the user
+            - ask to create a new student data instead (redirect to create.html)
+
+Update
+    - ask for LRN using <input>
+        - if LRN exsist in the database :
+            - allow user to update the data connected to the LRN.
+        - if LRN doesn't exsist in the database ;
+            - warn the user
+            - ask to create a new student data instead (redirect to create.html)
+
+Delete
+    - ask for LRN using <input>
+        - if LRN exsist in the database :
+            - tell the user the action is irreversable, then ask to continue or go back.
+                - if continue :
+                    - move the data connected to the LRN to a separate branch in the Local Storage or mark as deleted or smth (still figuring this out)
+                - if go back :
+                    - break
+        - if LRN doesn't exsist in the database ;
+            - warn the user
+            - break
+
