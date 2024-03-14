@@ -10,7 +10,7 @@ Python: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-no
 mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 -->
 
-A school project.
+A school project. <br>
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn) and hendi [(@kcirdneH)](https://github.com/kcirdneH)** <br>
 
 ### How to use
