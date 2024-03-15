@@ -15,4 +15,11 @@ A school project. <br>
 > Status : Active <br>
 
 ### How to use
-This thing won't run just yet. Please come back next time or contribute to speed up the development process. :)
+This thing won't run just yet. Please come back next time. :)
+
+### Contributing
+1. Clone the repo
+2. Make your own branch (use `main` as the source). This will serve as your playground.
+3. Merge your work to the `beta` branch.
+4. Wait for the merge to be approved.
+5. Prior testing will be done before merging to `main`.
