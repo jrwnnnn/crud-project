@@ -2,9 +2,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../stylesheets/create.css">
+    <script src="../scripts/main_script.js"></script>
+    <title>Create</title>
 </head>
 <body>
-    
+    <div class="text_head">
+        <h1>CREATE A NEW STUDENT DATA</h1>
+        <h3>Fill the required fields.</h3>
+    </div>
+    <form action="create_confirmatory.html">
+        <label for="lrn">LRN</label>
+        <input type="number" id="lrn" required/><br>
+        <label for="name">Name</label>
+        <input type="text" id="name" required/><br>
+        <input type="submit" onclick="run_create()" value="NEXT"/>
+    </form>
 </body>
 </html>

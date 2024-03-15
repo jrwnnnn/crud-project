@@ -1,4 +1,7 @@
-<h1>Project Name <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="height:30px;"></h1>
+> [!IMPORTANT]
+> For first timers, please read <code>pseudo_code.txt</code>.
+
+# Project Crud <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="height:30px;">
 
 <!-- PROGRAMMING LANGUAGE ICONS
 HTML: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png
@@ -7,16 +10,16 @@ Python: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-no
 mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 -->
 
-**Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn) and hendi [(@kcirdneH)](https://github.com/kcirdneH)** <br>
+A school project. <br>
+**Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn) and hendi [(@kcirdneH)](https://github.com/kcirdneH) .** <br>
+> Status : Active <br>
 
-<p><b>Language: </b> 
-HTML, JavaScript
-</p>
+### How to use
+This thing won't run just yet. Please come back next time. :)
 
-<p><b>Description: </b> <br>
-A school project.
-</p>
-
-<p><b>Notes for collaborators: </b> <br>
-Please read <code>pseudo_code.txt</code> first before commiting.
-</p>
+### Contributing
+1. Clone the repo
+2. Make your own branch (use `main` as the source). This will serve as your playground.
+3. Merge your work to the `beta` branch.
+4. Wait for the merge to be approved.
+5. Prior testing will be done before merging to `main`.
