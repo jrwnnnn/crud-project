@@ -19,7 +19,6 @@ This thing won't run just yet. Please come back next time. :)
 
 ### Contributing
 1. Clone the repo
-2. Make your own branch (use `main` as the source). This will serve as your playground.
-3. Merge your work to the `beta` branch.
-4. Wait for the merge to be approved.
-5. Prior testing will be done before merging to `main`.
+2. Edit directly to the `beta`
+3. Once done, make a pull request merging the `beta` and the `main` branch.
+4. Wait for the merge to be approved. Prior testing will be made to ensure the integrity of the code.
