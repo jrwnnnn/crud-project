@@ -18,7 +18,7 @@ A school project. <br>
 This thing won't run just yet. Please come back next time. :)
 
 ### Contributing
-1. Clone the repo.
+1. Clone the repo.n
 2. Edit directly to the `beta` branch.
 3. Once done, make a pull request merging the `beta` and the `main` branch.
 4. Wait for the merge to be approved. Prior testing will be made to ensure the integrity of the code.
